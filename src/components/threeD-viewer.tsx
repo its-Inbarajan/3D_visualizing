@@ -120,7 +120,7 @@ export default function ThreeDViewer() {
       }
       if (mode === "ply") {
         loader.load(
-          "/models/patchwork chair.ply",
+          "/models/patchwork_chair.ply",
           (geometry) => {
             const endTime = performance.now();
             setLoadTime(endTime - startTime); // ms
