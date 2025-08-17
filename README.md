@@ -25,15 +25,15 @@ Supports camera checkpoints, interactive orbit controls, and loading animations.
 
 🛠️ Tech Stack
 
-    - **Next.js** (App Router) – React framework
+    - Next.js (App Router) – React framework
 
-    - **Three.js** – Rendering PLY models
+    - Three.js – Rendering PLY models
 
-    - **gsplat** – Rendering SPLAT models
+    - gsplat – Rendering SPLAT models
 
-    - **GSAP** – Smooth camera animations
+    - GSAP – Smooth camera animations
 
-    - **OrbitControls** – Rotate, zoom, pan interaction
+    - OrbitControls – Rotate, zoom, pan interaction
 
 📂 Project Structure
 
@@ -52,7 +52,7 @@ public/
 🚀 Getting Started
 
 **1. Clone repo**
-git clone [text](https://github.com/its-Inbarajan/3D_visualizing)
+git clone https://github.com/its-Inbarajan/3D_visualizing
 
 cd 3D_visualizing
 
@@ -64,7 +64,7 @@ cd 3D_visualizing
 
 `npm run dev`
 
-Open [Link]http://localhost:3000 in your browser.
+Open http://localhost:3000 in your browser.
 
 **4. Build for production**
 
@@ -87,7 +87,7 @@ Open [Link]http://localhost:3000 in your browser.
 
 📊 Judging Criteria (How this project meets it)
 
-    - **Features implemented** - Supports PLY + SPLAT, checkpoints, toggle, rotation, zoom.
-    - **Model loading latency** - Loading spinner + load time display.
-    - **Ease of use** - Simple UI with buttons & direct checkpoint navigation.
-    - **Optional features** - Both formats supported, UI highlights active checkpoint.
+    - Features implemented - Supports PLY + SPLAT, checkpoints, toggle, rotation, zoom.
+    - Model loading latency - Loading spinner + load time display.
+    - Ease of use - Simple UI with buttons & direct checkpoint navigation.
+    - Optional features - Both formats supported, UI highlights active checkpoint.
