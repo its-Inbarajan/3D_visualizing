@@ -1,5 +1,8 @@
 **3D Model Viewer (PLY & SPLAT)**
 
+**Live demo** 
+[Link](3d-model-visualizing.vercel.app)
+
 A web app built with Next.js, Three.js, and gsplat to view 3D models in both PLY and SPLAT formats.
 Supports camera checkpoints, interactive orbit controls, and loading animations.
 
